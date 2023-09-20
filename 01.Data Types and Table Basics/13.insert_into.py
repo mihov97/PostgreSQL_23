@@ -7,4 +7,4 @@ VALUES
 	('Darwin', 'EHND', 'Create a Digital Greeting', 321.958, 'darwin@minion.com', false, 'relaxed'),
 	('Kevin', 'KMHD', 'Construct with Virtual Blocks', 35214.789, 'kevin@minion.com', false, 'happy'),
 	('Norbert', 'FEWB', 'Testing', 3265.500, 'norbert@minion.com', true, 'sad'),
-	('Donny', 'L', 'Make a Map', 8.452, 'donny@minion.com', true, 'happy');
+	('Donny', 'L', 'Make a Map', 8.452, 'donny@minion.com', true, 'happy') ;
