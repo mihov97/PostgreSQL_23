@@ -5,6 +5,7 @@ SELECT
 	e.first_name || ' ' || e.last_name AS "Full Name",
 	e.department_id,
 	a.number || ' ' || a.street AS "Address"
+
 FROM
 	employees AS e
 JOIN
