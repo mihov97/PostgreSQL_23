@@ -1,5 +1,5 @@
 UPDATE
-	employees
+	employee
 SET
 	salary = salary + 1500,
 	job_title = 'Senior' || ' ' || job_title
