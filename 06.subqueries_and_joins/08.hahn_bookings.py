@@ -7,4 +7,4 @@ JOIN
 USING
 	(customer_id)
 WHERE
-	c.last_name = 'Hahn';
+	c.last_name = 'Hahn' ;
