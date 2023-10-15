@@ -22,5 +22,6 @@ $$
   WHERE c.name = category
   ORDER BY p.name ASC, bg.release_year DESC;
   END;
+
 $$
 LANGUAGE plpgsql;
