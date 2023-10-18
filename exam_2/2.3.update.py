@@ -5,4 +5,4 @@ WHERE
         AND
     year <= 2010
         AND
-    make <> 'Mercedes-Benz';
+    make <> 'Mercedes-Benz' ;
