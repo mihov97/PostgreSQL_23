@@ -8,8 +8,8 @@ FROM
 	cars AS c
 LEFT JOIN
 	courses AS cr
-ON
-	c.id = cr.car_id
+		ON
+			c.id = cr.car_id
 GROUP BY
 	c.id
 HAVING
