@@ -7,5 +7,4 @@ FROM
         JOIN animal_types as at
             on at.id = a.animal_type_id
 ORDER BY
-    name ASC
-;
+    name ASC;
