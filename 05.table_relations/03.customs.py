@@ -19,10 +19,12 @@ CREATE TABLE people(
     CONSTRAINT fk_people_passports
     FOREIGN KEY(passport_id)
     REFERENCES passports(id)
+
 );
 
 INSERT  INTO
     people(first_name, salary, passport_id)
+
 VALUES
     ('Roberto', 43300.00, 101),
     ('Tom', 56100.00, 102),
