@@ -21,7 +21,6 @@ CREATE TABLE people(
     REFERENCES passports(id)
 
 );
-
 INSERT  INTO
     people(first_name, salary, passport_id)
 
