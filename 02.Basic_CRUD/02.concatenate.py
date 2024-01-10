@@ -7,6 +7,7 @@ CONCAT(
 AS
 "Cities Infomation",
 area
+
 AS
 "Are (km2)"
 
