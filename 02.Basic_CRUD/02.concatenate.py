@@ -10,6 +10,5 @@ area
 
 AS
 "Are (km2)"
-
 FROM
 cities;
